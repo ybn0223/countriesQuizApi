@@ -222,19 +222,6 @@
 	  "id": 16
 	},
 	{
-	  "abbreviation": "BV",
-	  "capital": "",
-	  "currency": "NOK",
-	  "name": "Bouvet Island",
-	  "phone": "",
-	  "media": {
-		"flag": "",
-		"emblem": "",
-		"orthographic": ""
-	  },
-	  "id": 17
-	},
-	{
 	  "abbreviation": "BW",
 	  "capital": "Gaborone",
 	  "currency": "BWP",
@@ -261,19 +248,6 @@
 		"orthographic": ""
 	  },
 	  "id": 19
-	},
-	{
-	  "abbreviation": "BQ",
-	  "capital": "",
-	  "currency": "USD",
-	  "name": "Bonaire, Saint Eustatius and Saba",
-	  "phone": "599",
-	  "media": {
-		"flag": "",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/State_coat_of_arms_of_the_Netherlands.svg/1280px-State_coat_of_arms_of_the_Netherlands.svg.png",
-		"orthographic": ""
-	  },
-	  "id": 20
 	},
 	{
 	  "abbreviation": "BR",
@@ -399,19 +373,6 @@
 		"orthographic": ""
 	  },
 	  "id": 29
-	},
-	{
-	  "abbreviation": "RE",
-	  "capital": "Saint-Denis",
-	  "currency": "EUR",
-	  "name": "Reunion",
-	  "phone": "262",
-	  "media": {
-		"flag": "",
-		"emblem": "",
-		"orthographic": ""
-	  },
-	  "id": 30
 	},
 	{
 	  "abbreviation": "TM",
@@ -871,19 +832,6 @@
 	  "id": 63
 	},
 	{
-	  "abbreviation": "HM",
-	  "capital": "",
-	  "currency": "AUD",
-	  "name": "Heard Island and McDonald Islands",
-	  "phone": " ",
-	  "media": {
-		"flag": "",
-		"emblem": "",
-		"orthographic": ""
-	  },
-	  "id": 64
-	},
-	{
 	  "abbreviation": "VE",
 	  "capital": "Caracas",
 	  "currency": "VEF",
@@ -919,7 +867,7 @@
 	  "phone": "970",
 	  "population": 4551566,
 	  "media": {
-		"flag": "",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1024px-Flag_of_Palestine.svg.png",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg/1280px-Coat_of_arms_of_Palestine_(alternative).svg.png",
 		"orthographic": ""
 	  },
@@ -952,19 +900,6 @@
 		"orthographic": ""
 	  },
 	  "id": 69
-	},
-	{
-	  "abbreviation": "SJ",
-	  "capital": "Longyearbyen",
-	  "currency": "NOK",
-	  "name": "Svalbard and Jan Mayen",
-	  "phone": "47",
-	  "media": {
-		"flag": "",
-		"emblem": "",
-		"orthographic": ""
-	  },
-	  "id": 70
 	},
 	{
 	  "abbreviation": "PY",
@@ -1367,20 +1302,6 @@
 		"orthographic": ""
 	  },
 	  "id": 99
-	},
-	{
-	  "abbreviation": "MF",
-	  "capital": "Marigot",
-	  "currency": "EUR",
-	  "name": "Saint Martin",
-	  "phone": "590",
-	  "population": 31949,
-	  "media": {
-		"flag": "",
-		"emblem": "",
-		"orthographic": ""
-	  },
-	  "id": 100
 	},
 	{
 	  "abbreviation": "MA",
@@ -2102,19 +2023,6 @@
 	  "id": 152
 	},
 	{
-	  "abbreviation": "CC",
-	  "capital": "West Island",
-	  "currency": "AUD",
-	  "name": "Cocos Islands",
-	  "phone": "61",
-	  "media": {
-		"flag": "",
-		"emblem": "",
-		"orthographic": ""
-	  },
-	  "id": 153
-	},
-	{
 	  "abbreviation": "CA",
 	  "capital": "Ottawa",
 	  "currency": "CAD",
@@ -2785,19 +2693,6 @@
 	  "id": 201
 	},
 	{
-	  "abbreviation": "UM",
-	  "capital": "",
-	  "currency": "USD",
-	  "name": "United States Minor Outlying Islands",
-	  "phone": "1",
-	  "media": {
-		"flag": "",
-		"emblem": "",
-		"orthographic": ""
-	  },
-	  "id": 202
-	},
-	{
 	  "abbreviation": "LB",
 	  "capital": "Beirut",
 	  "currency": "LBP",
@@ -3021,19 +2916,6 @@
 	  "id": 218
 	},
 	{
-	  "abbreviation": "TF",
-	  "capital": "Port-aux-Francais",
-	  "currency": "EUR",
-	  "name": "French Southern Territories",
-	  "phone": "",
-	  "media": {
-		"flag": "",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Armoiries_des_Terres_australes_et_antarctiques_fran%C3%A7aises.svg/1280px-Armoiries_des_Terres_australes_et_antarctiques_fran%C3%A7aises.svg.png",
-		"orthographic": ""
-	  },
-	  "id": 219
-	},
-	{
 	  "abbreviation": "TG",
 	  "capital": "Lome",
 	  "currency": "XOF",
@@ -3184,20 +3066,6 @@
 		"orthographic": ""
 	  },
 	  "id": 230
-	},
-	{
-	  "abbreviation": "VI",
-	  "capital": "Charlotte Amalie",
-	  "currency": "USD",
-	  "name": "U.S. Virgin Islands",
-	  "phone": "+1-340",
-	  "population": 102951,
-	  "media": {
-		"flag": "",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Seal_of_the_United_States_Virgin_Islands.svg/1280px-Seal_of_the_United_States_Virgin_Islands.svg.png",
-		"orthographic": ""
-	  },
-	  "id": 231
 	},
 	{
 	  "abbreviation": "IS",
@@ -3365,19 +3233,6 @@
 		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/India_%28orthographic_projection%29.svg/1280px-India_(orthographic_projection).svg.png"
 	  },
 	  "id": 243
-	},
-	{
-	  "abbreviation": "AX",
-	  "capital": "Mariehamn",
-	  "currency": "EUR",
-	  "name": "Aland Islands",
-	  "phone": "+358-18",
-	  "media": {
-		"flag": "",
-		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Coat_of_arms_of_%C3%85land.svg/1280px-Coat_of_arms_of_%C3%85land.svg.png",
-		"orthographic": ""
-	  },
-	  "id": 244
 	},
 	{
 	  "abbreviation": "AZ",
