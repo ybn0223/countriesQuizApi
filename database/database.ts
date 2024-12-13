@@ -1,7 +1,5 @@
 import dotenv from 'dotenv';
-import { MongoClient, ServerApiVersion, GridFSBucket, ObjectId, GridFSBucketReadStream, Collection } from 'mongodb';  // Import ObjectId from mongodb
-import fs from 'fs';
-import { Request, Response } from 'express';  // Make sure you're importing Request and Response
+import { MongoClient, Collection } from 'mongodb';  // Import ObjectId from mongodb
 import bcrypt from 'bcrypt';
 import { error } from 'console';
 import { IUser } from '../models/IUser.type';
