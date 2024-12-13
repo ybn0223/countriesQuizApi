@@ -4,6 +4,8 @@ import path from "path";
 import APIROUTER from "./routers/api";
 import { connect } from "./database/database";
 
+const cors = require('cors');
+
 dotenv.config();
 
 const APP : Express = express();
@@ -15,6 +17,8 @@ APP.use(express.static(path.join(__dirname, "public")));
 APP.set("views", path.join(__dirname, "views"));
 
 APP.set("port", process.env.PORT ?? 3000);
+
+APP.use(cors());
 
 APP.use('/api', APIROUTER);
 APP.use((request, response) => {
