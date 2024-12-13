@@ -17,8 +17,12 @@ APP.set("views", path.join(__dirname, "views"));
 
 APP.set("port", process.env.PORT ?? 3000);
 
-APP.use(cors());
-
+APP.use(cors({
+	origin: '*', // Allow all origins
+	methods: 'GET,POST,PUT,DELETE', // Allow all HTTP methods
+	allowedHeaders: 'Content-Type', // Allow specific headers
+  }));
+  
 APP.use('/api', APIROUTER);
 APP.use((request, response) => {
 	response.status(404).json({
