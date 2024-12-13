@@ -3,8 +3,7 @@ import dotenv from "dotenv";
 import path from "path";
 import APIROUTER from "./routers/api";
 import { connect } from "./database/database";
-
-const cors = require('cors');
+import cors from "cors";
 
 dotenv.config();
 
