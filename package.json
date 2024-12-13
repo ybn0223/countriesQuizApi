@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "test": "jest",
-    "start": "nodemon index.ts"
+    "start": "node index.ts"
   },
   "author": "",
   "license": "ISC",
