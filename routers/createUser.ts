@@ -1,6 +1,7 @@
 import express from 'express';
-import * as COUNTRIES from '../json/countries.json';
 import { registerUser, USER_COLLECTION } from '../database/database';
+
+
 
 const CREATE_USER = express.Router();
 
