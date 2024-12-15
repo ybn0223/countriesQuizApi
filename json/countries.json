@@ -437,7 +437,7 @@
 	  "phone": "245",
 	  "population": 1815698,
 	  "media": {
-		"flag": "https:Bissau.svg/1280px-Flag_of_Guinea-Bissau.svg.png",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Emblem_of_Guinea-Bissau.svg/1280px-Emblem_of_Guinea-Bissau.svg.png",
 		"orthographic": ""
 	  },
@@ -2141,7 +2141,7 @@
 	  "phone": "599",
 	  "population": 159999,
 	  "media": {
-		"flag": "https:A7ao.svg/1280px-Flag_of_Cura%C3%A7ao.svg.png",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Cura%C3%A7ao.svg/1024px-Flag_of_Cura%C3%A7ao.svg.png",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Coat_of_arms_of_Cura%C3%A7ao.svg/1280px-Coat_of_arms_of_Cura%C3%A7ao.svg.png",
 		"orthographic": ""
 	  },
@@ -2491,7 +2491,7 @@
 	  "phone": "+1-345",
 	  "population": 60765,
 	  "media": {
-		"flag": "https:1f1fe.svg.png",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Coat_of_arms_of_the_Cayman_Islands.svg/1280px-Coat_of_arms_of_the_Cayman_Islands.svg.png",
 		"orthographic": ""
 	  },
@@ -3048,7 +3048,7 @@
 	  "phone": "93",
 	  "population": 34656032,
 	  "media": {
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1280px-Flag_of_Afghanistan.svg.png",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/1024px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/National_emblem_of_Afghanistan.svg/1280px-National_emblem_of_Afghanistan.svg.png",
 		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Afghanistan_%28orthographic_projection%29.svg/1280px-Afghanistan_(orthographic_projection).svg.png"
 	  },
