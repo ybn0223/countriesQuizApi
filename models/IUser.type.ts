@@ -6,5 +6,4 @@ export interface IUser{
 	email: string,
 	profilePictureId: ObjectId | null;
 	password: string,
-	createdAt: Date
 }

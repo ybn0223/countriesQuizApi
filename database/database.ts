@@ -14,32 +14,32 @@ export const DB_NAME = 'Countries_Quiz_App';
 export const DATABASE = CLIENT.db(DB_NAME);
 export const USER_COLLECTION : Collection<IUser> = CLIENT.db(DB_NAME).collection('Users');
 
-// Function to create a new user with hashed password
-export async function createUser(name: string, email: string, password: string) {
-	try {
-	  // Hash the password using bcrypt
-	  const hashedPassword = await bcrypt.hash(password, 10);
-  
-	  const newUser : IUser = {
-		username: name,
-		email: email,
-		password: hashedPassword,  // Store the hashed password
-		profilePictureId: null,  // Set profilePictureId to null if not provided
-		createdAt: new Date(),
-	  };
-  
-	  const result = await USER_COLLECTION.insertOne(newUser);
-	  return {
-		message: 'User created successfully',
-		user: result.insertedId,
-		name,
-		email
-	  };
-	} catch (err) {
-		throw error({ message: 'Internal server error' });
-	}
-  }
-  
+
+export async function registerUser(email: string, username: string, password: string): Promise<string> {
+    try {
+        const userExists = await USER_COLLECTION.findOne({ username });
+		const emailExists = await USER_COLLECTION.findOne({ email });
+        if (userExists || emailExists) {
+            return 'User already exists';
+        }
+
+        const hashedPassword = await bcrypt.hash(password, 10);
+
+        const newUser: IUser = {
+            email,
+            password: hashedPassword,
+			username: username,
+			profilePictureId: null
+        };
+
+        await USER_COLLECTION.insertOne(newUser);
+        return 'User registered successfully';
+    } catch (error) {
+        console.error('Error registering user:', error);
+        return 'Server error';
+    }
+}
+
 // Function to connect to the database
 export async function connect() {
   try {
