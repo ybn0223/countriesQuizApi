@@ -2,7 +2,7 @@ import express, { Express } from "express";
 import dotenv from "dotenv";
 import path from "path";
 import APIROUTER from "./routers/api";
-import { connect } from "./database/database";
+import { connect, exit } from "./database/database";
 import cors from "cors";
 
 dotenv.config();
@@ -30,6 +30,7 @@ APP.use(async (req, res, next) => {
   try {
     await connect();
     next(); // Proceed to the next middleware or route handler
+	await exit();
   } catch (err) {
     console.error("Database connection error:", err);
     res.status(500).send("Error: Unable to connect to the database");

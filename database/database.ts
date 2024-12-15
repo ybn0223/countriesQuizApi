@@ -16,7 +16,6 @@ export const USER_COLLECTION : Collection<IUser> = CLIENT.db(DB_NAME).collection
 
 
 export async function registerUser(email: string, username: string, password: string): Promise<string> {
-	await connect();
     try {
         const userExists = await USER_COLLECTION.findOne({ username });
 		const emailExists = await USER_COLLECTION.findOne({ email });
