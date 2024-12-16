@@ -19,8 +19,7 @@
 	],
 	"functions": {
 		"pages/api/resetLeaderboard.ts": {
-			"runtime": "nodejs18.x",
-			"schedule": "@weekly"
+			"runtime": "nodejs18.x"
 		}
 	}
 }
