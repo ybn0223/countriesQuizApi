@@ -29,7 +29,8 @@ export async function registerUser(email: string, username: string, password: st
             email,
             password: hashedPassword,
 			username: username,
-			profilePictureId: null
+			profilePictureId: null,
+			highScoreWeekly: null
         };
 
         await USER_COLLECTION.insertOne(newUser);
@@ -38,6 +39,24 @@ export async function registerUser(email: string, username: string, password: st
         console.error('Error registering user:', error);
         return 'Server error';
     }
+}
+
+export async function updateHighScoreWeekly(username : string, highScoreWeekly: number){
+	try {
+		const result = await USER_COLLECTION.updateOne(
+		  { username }, // Find user by username
+		  {
+			$set: {
+			  highScoreWeekly: highScoreWeekly,
+			},
+		  },
+		  { upsert: false } // Ensures that no new document is created if the user doesn't exist
+		);
+		return result.modifiedCount > 0; // Return true if the document was updated
+	  } catch (error) {
+		console.error('Error updating high score:', error);
+		throw error;
+	  }
 }
 
 // Function to connect to the database
