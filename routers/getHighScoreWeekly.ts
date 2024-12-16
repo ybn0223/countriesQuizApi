@@ -7,10 +7,11 @@ const LEADERBOARD = express.Router();
 LEADERBOARD.get('/leaderboard-weekly', async (req, res) => {
   try {
     // Retrieve the top players sorted by their highScoreWeekly in descending order
-    const leaderboard = await USER_COLLECTION.find({})
-      .sort({ highScoreWeekly: -1 }) // Sort by highScoreWeekly in descending order
-      .limit(30) // Limit to top 10 players
-      .toArray();
+	const leaderboard = await USER_COLLECTION.find({ highScoreWeekly: { $gte: 1 } }) // Only include scores >= 1
+	.sort({ highScoreWeekly: -1 }) // Sort by highScoreWeekly in descending order
+	.limit(30) // Limit to top 30 players
+	.toArray();
+  
 
     if (!leaderboard.length) {
       return res.status(404).send('No leaderboard data found');
