@@ -40,18 +40,20 @@ export async function registerUser(email: string, username: string, password: st
         return 'Server error';
     }
 }
-export async function deleteUser(email: string){
-	try {
-		const emailExists = await USER_COLLECTION.findOne({ email });
-		if (!emailExists) {
-			return "User not found."
-		}
-		await USER_COLLECTION.deleteOne(emailExists);
-	} catch (error) {
-		console.error("Error deleting user:", error);
-		return 'Server error';
-	}
+export async function deleteUser(email: string) {
+    try {
+        const emailExists = await USER_COLLECTION.findOne({ email });
+        if (!emailExists) {
+            return false;
+        }
+        const result = await USER_COLLECTION.deleteOne({ email });
+        return result.deletedCount > 0;
+    } catch (error) {
+        console.error("Error deleting user:", error);
+        throw error;
+    }
 }
+
 
 export async function updateHighScoreWeekly(username : string, highScoreWeekly: number){
 	try {
