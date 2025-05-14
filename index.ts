@@ -4,7 +4,6 @@ import path from "path";
 import APIROUTER from "./routers/api";
 import { connect } from "./database/database";
 import cors from "cors";
-import changePopulationValue from "./database/newPopulation";
 
 dotenv.config();
 
