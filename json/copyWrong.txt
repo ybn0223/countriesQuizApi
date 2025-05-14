@@ -1,0 +1,117 @@
+	
+
+	
+
+	
+
+	{
+	  "abbreviation": "KN",
+	  "capital": "Basseterre",
+	  "currency": "XCD",
+	  "name": "Saint Kitts and Nevis",
+	  "phone": "+1-869",
+	  "population": 54821,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1280px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St_Kitts_and_Nevis_Coat_of_Arms.svg/1280px-St_Kitts_and_Nevis_Coat_of_Arms.svg.png",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KNA_orthographic.svg/251280px-KNA_orthographic.svg.png"
+	  },
+	  "id": 174
+	},
+
+	
+	{
+	  "abbreviation": "ST",
+	  "capital": "Sao Tome",
+	  "currency": "STD",
+	  "name": "Sao Tome and Principe",
+	  "phone": "239",
+	  "population": 199910,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/188px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1280px-Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 176
+	},
+
+	
+	{
+	  "abbreviation": "TC",
+	  "capital": "Cockburn Town",
+	  "currency": "USD",
+	  "name": "Turks and Caicos Islands",
+	  "phone": "+1-649",
+	  "population": 34900,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/1280px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_the_Turks_and_Caicos_Islands.svg/1280px-Coat_of_arms_of_the_Turks_and_Caicos_Islands.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 222
+	},
+
+	
+	{
+	  "abbreviation": "VC",
+	  "capital": "Kingstown",
+	  "currency": "XCD",
+	  "name": "Saint Vincent and the Grenadines",
+	  "phone": "+1-784",
+	  "population": 109643,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 225
+	},
+
+	{
+	  "abbreviation": "AQ",
+	  "capital": "",
+	  "currency": "",
+	  "name": "Antarctica",
+	  "phone": "",
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg/1024px-Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg.png",
+		"emblem": "",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/1280px-Antarctica_(orthographic_projection).svg.png"
+	  },
+	  "id": 237
+	},
+
+	
+	{
+	  "abbreviation": "CG",
+	  "capital": "Brazzaville",
+	  "currency": "XAF",
+	  "name": "Republic of Congo",
+	  "phone": "242",
+	  "population": 5125821,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1280px-Flag_of_the_Republic_of_the_Congo.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Coat_of_arms_of_the_Republic_of_the_Congo.svg/1280px-Coat_of_arms_of_the_Republic_of_the_Congo.svg.png",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Republic_of_the_Congo_%28orthographic_projection%29.svg/1280px-Republic_of_the_Congo_(orthographic_projection).svg.png"
+	  },
+	  "id": 155
+	},
+
+	
+	{
+	  "abbreviation": "CD",
+	  "capital": "Kinshasa",
+	  "currency": "CDF",
+	  "name": "Democratic Republic of the Congo",
+	  "phone": "243",
+	  "population": 78736153,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg.png",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg/1280px-Democratic_Republic_of_the_Congo_(orthographic_projection).svg.png"
+	  },
+	  "id": 157
+	},
+
+	
+	

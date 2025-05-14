@@ -1,5 +1,5 @@
 import express from 'express';
-import * as COUNTRIES from '../json/countries.json';
+import * as COUNTRIES from '../json/newCountries.json';
 
 const GET_COUNTRIES = express.Router();
 

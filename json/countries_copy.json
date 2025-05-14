@@ -364,7 +364,7 @@
 	  "abbreviation": "TL",
 	  "capital": "Dili",
 	  "currency": "USD",
-	  "name": "Timor",
+	  "name": "East Timor",
 	  "phone": "670",
 	  "population": 1268671,
 	  "media": {
@@ -858,6 +858,20 @@
 		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Puerto_Rico_%28orthographic_projection%29.svg/1280px-Puerto_Rico_(orthographic_projection).svg.png"
 	  },
 	  "id": 66
+	},
+	{
+	  "abbreviation": "PS",
+	  "capital": "East Jerusalem",
+	  "currency": "ILS",
+	  "name": "Palestine",
+	  "phone": "970",
+	  "population": 4551566,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1024px-Flag_of_Palestine.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Palestine_%28alternative%29.svg/1280px-Coat_of_arms_of_Palestine_(alternative).svg.png",
+		"orthographic": ""
+	  },
+	  "id": 67
 	},
 	{
 	  "abbreviation": "PW",
@@ -1705,6 +1719,20 @@
 	  "id": 130
 	},
 	{
+	  "abbreviation": "FO",
+	  "capital": "Torshavn",
+	  "currency": "DKK",
+	  "name": "Faroe Islands",
+	  "phone": "298",
+	  "population": 49117,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/1280px-Flag_of_the_Faroe_Islands.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Coat_of_arms_of_the_Faroe_Islands.svg/1280px-Coat_of_arms_of_the_Faroe_Islands.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 131
+	},
+	{
 	  "abbreviation": "NI",
 	  "capital": "Managua",
 	  "currency": "NIO",
@@ -1858,18 +1886,71 @@
 	  "id": 142
 	},
 	{
+	  "abbreviation": "NR",
+	  "capital": "Yaren",
+	  "currency": "AUD",
+	  "name": "Nauru",
+	  "phone": "674",
+	  "population": 13049,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1280px-Flag_of_Nauru.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Coat_of_arms_of_Nauru.svg/1280px-Coat_of_arms_of_Nauru.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 143
+	},
+	{
+	  "abbreviation": "NU",
+	  "capital": "Alofi",
+	  "currency": "NZD",
+	  "name": "Niue",
+	  "phone": "683",
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/1280px-Flag_of_Niue.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Public_Seal_of_Niue.svg/1280px-Public_Seal_of_Niue.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 144
+	},
+	{
+	  "abbreviation": "CK",
+	  "capital": "Avarua",
+	  "currency": "NZD",
+	  "name": "Cook Islands",
+	  "phone": "682",
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/1280px-Flag_of_the_Cook_Islands.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Coat_of_arms_of_the_Cook_Islands.svg/1280px-Coat_of_arms_of_the_Cook_Islands.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 145
+	},
+	{
 	  "abbreviation": "XK",
 	  "capital": "Pristina",
 	  "currency": "EUR",
 	  "name": "Kosovo",
 	  "phone": "",
-	  "population": 6736216,
 	  "media": {
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1280px-Flag_of_Kosovo.svg.png",
 		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Coat_of_arms_of_Kosovo.svg/1280px-Coat_of_arms_of_Kosovo.svg.png",
 		"orthographic": ""
 	  },
 	  "id": 146
+	},
+	{
+	  "abbreviation": "CI",
+	  "capital": "Yamoussoukro",
+	  "currency": "XOF",
+	  "name": "Ivory Coast",
+	  "phone": "225",
+	  "population": 23695919,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1024px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Coat_of_Arms_of_the_Ivory_Coast.svg/1280px-Coat_of_Arms_of_the_Ivory_Coast.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 147
 	},
 	{
 	  "abbreviation": "CH",
@@ -1956,6 +2037,20 @@
 	  "id": 154
 	},
 	{
+	  "abbreviation": "CG",
+	  "capital": "Brazzaville",
+	  "currency": "XAF",
+	  "name": "Republic of Congo",
+	  "phone": "242",
+	  "population": 5125821,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1280px-Flag_of_the_Republic_of_the_Congo.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Coat_of_arms_of_the_Republic_of_the_Congo.svg/1280px-Coat_of_arms_of_the_Republic_of_the_Congo.svg.png",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Republic_of_the_Congo_%28orthographic_projection%29.svg/1280px-Republic_of_the_Congo_(orthographic_projection).svg.png"
+	  },
+	  "id": 155
+	},
+	{
 	  "abbreviation": "CF",
 	  "capital": "Bangui",
 	  "currency": "XAF",
@@ -1970,6 +2065,34 @@
 	  "id": 156
 	},
 	{
+	  "abbreviation": "CD",
+	  "capital": "Kinshasa",
+	  "currency": "CDF",
+	  "name": "Democratic Republic of the Congo",
+	  "phone": "243",
+	  "population": 78736153,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg/1280px-Coat_of_arms_of_the_Democratic_Republic_of_the_Congo.svg.png",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Democratic_Republic_of_the_Congo_%28orthographic_projection%29.svg/1280px-Democratic_Republic_of_the_Congo_(orthographic_projection).svg.png"
+	  },
+	  "id": 157
+	},
+	{
+	  "abbreviation": "CZ",
+	  "capital": "Prague",
+	  "currency": "CZK",
+	  "name": "Czech Republic",
+	  "phone": "420",
+	  "population": 10561633,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1280px-Flag_of_the_Czech_Republic.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Coat_of_arms_of_the_Czech_Republic.svg/1280px-Coat_of_arms_of_the_Czech_Republic.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 158
+	},
+	{
 	  "abbreviation": "CY",
 	  "capital": "Nicosia",
 	  "currency": "EUR",
@@ -1982,6 +2105,19 @@
 		"orthographic": ""
 	  },
 	  "id": 159
+	},
+	{
+	  "abbreviation": "CX",
+	  "capital": "Flying Fish Cove",
+	  "currency": "AUD",
+	  "name": "Christmas Island",
+	  "phone": "61",
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/1280px-Flag_of_Christmas_Island.svg.png",
+		"emblem": "",
+		"orthographic": ""
+	  },
+	  "id": 160
 	},
 	{
 	  "abbreviation": "CR",
@@ -2012,6 +2148,20 @@
 	  "id": 162
 	},
 	{
+	  "abbreviation": "CV",
+	  "capital": "Praia",
+	  "currency": "CVE",
+	  "name": "Cape Verde",
+	  "phone": "238",
+	  "population": 539560,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1280px-Flag_of_Cape_Verde.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Coat_of_arms_of_Cape_Verde.svg/1280px-Coat_of_arms_of_Cape_Verde.svg.png",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Cape_Verde_%28orthographic_projection%29.svg/1280px-Cape_Verde_(orthographic_projection).svg.png"
+	  },
+	  "id": 163
+	},
+	{
 	  "abbreviation": "CU",
 	  "capital": "Havana",
 	  "currency": "CUP",
@@ -2024,6 +2174,20 @@
 		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CUB_orthographic.svg/251280px-CUB_orthographic.svg.png"
 	  },
 	  "id": 164
+	},
+	{
+	  "abbreviation": "SZ",
+	  "capital": "Mbabane",
+	  "currency": "SZL",
+	  "name": "Swaziland",
+	  "phone": "268",
+	  "population": 1343098,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/1280px-Flag_of_Eswatini.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coat_of_arms_of_Eswatini.svg/1280px-Coat_of_arms_of_Eswatini.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 165
 	},
 	{
 	  "abbreviation": "SY",
@@ -2138,6 +2302,20 @@
 	  "id": 173
 	},
 	{
+	  "abbreviation": "KN",
+	  "capital": "Basseterre",
+	  "currency": "XCD",
+	  "name": "Saint Kitts and Nevis",
+	  "phone": "+1-869",
+	  "population": 54821,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1280px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/St_Kitts_and_Nevis_Coat_of_Arms.svg/1280px-St_Kitts_and_Nevis_Coat_of_Arms.svg.png",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/KNA_orthographic.svg/251280px-KNA_orthographic.svg.png"
+	  },
+	  "id": 174
+	},
+	{
 	  "abbreviation": "KM",
 	  "capital": "Moroni",
 	  "currency": "KMF",
@@ -2150,6 +2328,20 @@
 		"orthographic": ""
 	  },
 	  "id": 175
+	},
+	{
+	  "abbreviation": "ST",
+	  "capital": "Sao Tome",
+	  "currency": "STD",
+	  "name": "Sao Tome and Principe",
+	  "phone": "239",
+	  "population": 199910,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/188px-Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg/1280px-Coat_of_arms_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 176
 	},
 	{
 	  "abbreviation": "SK",
@@ -2752,6 +2944,20 @@
 	  "id": 221
 	},
 	{
+	  "abbreviation": "TC",
+	  "capital": "Cockburn Town",
+	  "currency": "USD",
+	  "name": "Turks and Caicos Islands",
+	  "phone": "+1-649",
+	  "population": 34900,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg/1280px-Flag_of_the_Turks_and_Caicos_Islands.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Coat_of_arms_of_the_Turks_and_Caicos_Islands.svg/1280px-Coat_of_arms_of_the_Turks_and_Caicos_Islands.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 222
+	},
+	{
 	  "abbreviation": "LY",
 	  "capital": "Tripolis",
 	  "currency": "LYD",
@@ -2777,6 +2983,20 @@
 		"orthographic": ""
 	  },
 	  "id": 224
+	},
+	{
+	  "abbreviation": "VC",
+	  "capital": "Kingstown",
+	  "currency": "XCD",
+	  "name": "Saint Vincent and the Grenadines",
+	  "phone": "+1-784",
+	  "population": 109643,
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+		"emblem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg/1280px-Coat_of_arms_of_Saint_Vincent_and_the_Grenadines.svg.png",
+		"orthographic": ""
+	  },
+	  "id": 225
 	},
 	{
 	  "abbreviation": "AE",
@@ -2839,7 +3059,6 @@
 	  "capital": "The Valley",
 	  "currency": "XCD",
 	  "name": "Anguilla",
-	  "population": 151515,
 	  "phone": "+1-264",
 	  "media": {
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Anguilla.svg/1280px-Flag_of_Anguilla.svg.png",
@@ -2918,7 +3137,19 @@
 	  },
 	  "id": 236
 	},
-	
+	{
+	  "abbreviation": "AQ",
+	  "capital": "",
+	  "currency": "",
+	  "name": "Antarctica",
+	  "phone": "",
+	  "media": {
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg/1024px-Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg.png",
+		"emblem": "",
+		"orthographic": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/1280px-Antarctica_(orthographic_projection).svg.png"
+	  },
+	  "id": 237
+	},
 	{
 	  "abbreviation": "AS",
 	  "capital": "Pago Pago",
