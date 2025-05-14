@@ -14,7 +14,7 @@ LEADERBOARD.get('/leaderboard-weekly', async (req, res) => {
   
 
     if (!leaderboard.length) {
-      return res.status(404).send('No leaderboard data found');
+      return res.status(404).send(JSON.stringify(""));
     }
 
     // Map the results to include only the necessary fields
