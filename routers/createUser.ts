@@ -8,6 +8,9 @@ const CREATE_USER = express.Router();
 CREATE_USER.post('/sign-up', async(req, res) =>{
 
 	const { email, username, password } = req.body;
+	if ( !email || !username || !password) {
+		return res.status(400).send('Error: user has not been created');
+	}
 
 	try {
 		const result = await registerUser(email, username, password);
